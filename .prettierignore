@@ -1,0 +1,11 @@
+# Ignore artifacts:
+.husky
+.nuxt
+.output
+disk
+node_modules/
+pnpm-lock.yaml
+.git/
+.vscode/
+.idea/
+.gitignore

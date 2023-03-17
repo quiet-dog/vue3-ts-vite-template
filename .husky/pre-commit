@@ -1,0 +1,5 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+# pnpm lint-staged --allow-empty 
+# echo "Compilin with tsc and vue-tsc..."
+# pnpm vue-tsc --noEmit --pretty --strict
